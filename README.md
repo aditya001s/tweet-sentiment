@@ -16,8 +16,8 @@ Visualization of sentiment analysis results
 ### Installation
 
 1.clone respository
-$ cd /path/to/directory
-$ git clone https://github.com/aditya001s/tweet-sentiment/tree/main
+
+$ [git clone](https://github.com/aditya001s/tweet-sentiment/tree/main)
 
 2.Install the required dependency
 !pip install -q transformers tweepy matplotlib wordcloud
