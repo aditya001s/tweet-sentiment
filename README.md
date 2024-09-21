@@ -30,7 +30,7 @@ The performance of the sentiment analysis models was evaluated using the followi
 - **ROC-AUC Score:** Area under the Receiver Operating Characteristic (ROC) curve, which measures the model's ability to distinguish between positive and negative classes.
 
 ## Usage
-<img src=""/>
+<img src="https://github.com/aditya001s/tweet-sentiment/blob/main/Screenshot%202024-09-16%20160520.png"/>
 To run the project and explore the sentiment analysis models:
 
 1. Clone the repository to your local machine.
