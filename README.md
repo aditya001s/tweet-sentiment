@@ -9,14 +9,18 @@ Welcome to the "Tweete Sentiment Analysis" project! This data science project fo
 ## Feature
 Classifies tweets into three sentiment categories: Positive, Negative, and Neutral
 Uses Natural Language Processing (NLP) and machine learning techniques
-Supports a range of models such as Logistic Regression, Naive Bayes, and Transformer-based models
+Supports a range of models such as Logistic Regression
 Preprocessing pipeline for tokenization, stop-word removal, and lemmatization
 Visualization of sentiment analysis results
 
 ### Installation
+
 1.clone respository
 $ cd /path/to/directory
 $ git clone https://github.com/aditya001s/tweet-sentiment/tree/main
+
+2.Install the required dependency
+!pip install -q transformers tweepy matplotlib wordcloud
 
 ## Project Description
 
