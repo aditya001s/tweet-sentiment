@@ -2,9 +2,21 @@
 
 ## Overview
 
-Welcome to the "Tweete Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. The primary goal is to classify tweets into positive, negative, or neutral sentiments, providing valuable insights into public opinion and sentiment trends on Twitter.
+Welcome to the "Tweete Sentiment Analysis" project! This data science project focuses on analyzing and predicting the sentiment of tweets using machine-learning techniques. This tool can be valuable for social media analysis, brand monitoring, and sentiment tracking.
 
 **Explore the project directly on Google Colab:** [Twitter Sentiment Analysis](https://colab.research.google.com/drive/1-5Q3Jvlw-aR_Fh1yrj2NA15Q6FWytcM8)
+
+## Feature
+Classifies tweets into three sentiment categories: Positive, Negative, and Neutral
+Uses Natural Language Processing (NLP) and machine learning techniques
+Supports a range of models such as Logistic Regression, Naive Bayes, and Transformer-based models
+Preprocessing pipeline for tokenization, stop-word removal, and lemmatization
+Visualization of sentiment analysis results
+
+### Installation
+1.clone respository
+$ cd /path/to/directory
+$ git clone https://github.com/aditya001s/tweet-sentiment/tree/main
 
 ## Project Description
 
