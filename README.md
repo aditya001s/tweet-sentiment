@@ -6,7 +6,7 @@ Welcome to the "Tweete Sentiment Analysis" project! This data science project fo
 
 **Explore the project directly on Google Colab:** [Twitter Sentiment Analysis](https://colab.research.google.com/drive/1-5Q3Jvlw-aR_Fh1yrj2NA15Q6FWytcM8)
 
-## Feature
+### Feature
 Classifies tweets into three sentiment categories: Positive, Negative, and Neutral
 
 Uses Natural Language Processing (NLP) and machine learning techniques
@@ -16,7 +16,7 @@ Supports a range of models such as Logistic Regression
 Preprocessing pipeline for tokenization, stop-word removal, and lemmatization
 Visualization of sentiment analysis results
 
-### Installation
+#### Installation
 
 1.clone respository
 
@@ -25,17 +25,17 @@ Visualization of sentiment analysis results
 2.Install the required dependency
 !pip install -q transformers tweepy matplotlib wordcloud
 
-## Project Description
+##### Project Description
 
 Twitter (Now X) sentiment analysis is a crucial task for understanding public opinion and sentiment towards various topics, brands, or events. This project utilizes machine-learning models to classify tweets based on their sentiment polarity, helping businesses, researchers, and individuals gauge public sentiment effectively.
 
-## Dataset
+###### Dataset
 
 The dataset used in this project is the Sentiment140 dataset from Kaggle, which consists of 1.6 million tweets extracted using the Twitter API. Each tweet is labelled with its sentiment polarity (0 for negative, 2 for neutral, and 4 for positive), making it suitable for sentiment analysis tasks.
 
 **Dataset Link:** [Sentiment140 Dataset on Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
-## Models Used
+####### Models Used
 
 1. **Logistic Regression:**
    - Logistic Regression is a classic classification algorithm that models the probability of a binary outcome. It's widely used for text classification and sentiment analysis tasks.
